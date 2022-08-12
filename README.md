@@ -3,7 +3,7 @@
 ## Overview of the analysis
 Creation of a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
-Data Preprocessing
+##Data Preprocessing
 - What variable(s) are considered the target(s) for your model? 
   - IS_SUCCESSFUL
 - What variable(s) are considered to be the features for your model?
@@ -18,3 +18,6 @@ Compiling, Training, and Evaluating the Model
   - NO, due to error in the code.  
 - What steps did you take to try and increase model performance?
   - More layers could be added.
+
+## Summary
+In order to optimize the model, other activation functsion could be used, or hidden layers could be increased. 
